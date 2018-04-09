@@ -39,7 +39,7 @@ public class Main {
      */
     public static void main(String[] args) {
         try {
-            int chatPort = 22
+            int chatPort = 5555
             int policyPort = chatPort + 1;
             
             for (int i = 0; i < args.length; i++) {
